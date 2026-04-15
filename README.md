@@ -18,20 +18,20 @@ This project focuses on predicting customer churn in the telecommunications indu
 
 # Installation & Setup
 
-**1. Clone The Repository:**
+- **Clone The Repository:**
 git clone [https://github.com/your-username/Customer-Churn-Prediction.git](https://github.com/your-username/Customer-Churn-Prediction.git)
 cd Customer-Churn-Prediction
 
-**2.Create a virtual environment (Optional but recommended):**
+- **Create a virtual environment (Optional but recommended):**
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-**3.Install the required dependencies:**
+- **Install the required dependencies:**
 
 pip install -r requirements.txt
 
-**4.Launch Jupyter Notebook:**
+- **Launch Jupyter Notebook:**
 
 jupyter notebook
 Open notebooks/customer_churn.ipynb to view the analysis.
