@@ -16,7 +16,7 @@ This project focuses on predicting customer churn in the telecommunications indu
 - **Feature Importance:** Visualized the top driving factors behind customer churn (e.g., Contract type, Tenure, Monthly Charges).
 - **Model Deployment:** Exported the trained XGBoost model and label encoders using `joblib` for future inference.
 
-**Installation & Setup**
+# Installation & Setup
 
 **1. Clone The Repository:**
 git clone [https://github.com/your-username/Customer-Churn-Prediction.git](https://github.com/your-username/Customer-Churn-Prediction.git)
